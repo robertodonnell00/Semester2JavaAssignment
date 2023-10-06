@@ -1,4 +1,5 @@
 # Semester 2 Java Assignment
+(Project was made in BlueJ)
 
 ## Description
 This system was designed for an Estate Agency. It is a CRUD system, meaning you can create, read, update, and delete information on the system. It is designed so that the Agency can keep track of their agents, clients, and properties. It breaks properties down into categories such as: Properties to Rent, to Buy and BnB properties. It keeps track of all the house keeping details of all the essential information that the agency would want about their properties, clientele, and staff. They can add, remove, and read all the information stored on the system easily. 
