@@ -1,0 +1,32 @@
+<object-stream>
+  <list>
+    <Agent>
+      <name>Robert</name>
+      <email>rob@mail.com</email>
+      <DOB>03/03/2000</DOB>
+      <ID>693</ID>
+      <commissionRate>23.4</commissionRate>
+      <numSales>12</numSales>
+      <yearJoined>2019</yearJoined>
+    </Agent>
+    <Agent>
+      <name>Padraig</name>
+      <email>padraig@mail.com</email>
+      <DOB>04/11/1999</DOB>
+      <ID>704</ID>
+      <commissionRate>12.4</commissionRate>
+      <numSales>2</numSales>
+      <yearJoined>2010</yearJoined>
+    </Agent>
+    <Client>
+      <name>Nancy</name>
+      <email>nan@mail.com</email>
+      <DOB>24/09/1991</DOB>
+      <ID>759</ID>
+      <lookingTo>Rent</lookingTo>
+      <idealProp>Apartment</idealProp>
+      <familySize>4</familySize>
+      <budget>900</budget>
+    </Client>
+  </list>
+</object-stream>

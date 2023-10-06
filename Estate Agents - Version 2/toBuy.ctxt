@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=toBuy
+comment1.params=address\ propType\ bathrooms\ bedrooms\ sqMetres\ ID\ assignedAgent\ accompaniedLand\ price\ furnished
+comment1.target=toBuy(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ Agent,\ java.lang.String,\ int,\ boolean)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=java.lang.String\ accompaniedLandOptions()
+comment2.params=
+comment2.target=java.lang.String\ classID()
+comment3.params=
+comment3.target=java.lang.String\ getAccompaniedLand()
+comment4.params=
+comment4.target=int\ getPrice()
+comment5.params=
+comment5.target=boolean\ getFurnished()
+comment6.params=
+comment6.target=void\ setAccompaniedLand()
+comment7.params=
+comment7.target=void\ setPrice()
+comment8.params=
+comment8.target=void\ setFurnished()
+comment9.params=
+comment9.target=java.lang.String\ printID()
+numComments=12
